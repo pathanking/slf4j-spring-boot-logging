@@ -1,0 +1,27 @@
+2021-03-04 16:06:14,674 INFO com.cts.SpringbootLoggingApplication [restartedMain] Starting SpringbootLoggingApplication using Java 15 on DESKTOP-SN0AD3U with PID 21660 (E:\Sessions\microservices\springboot-logging\target\classes started by razaa in E:\Sessions\microservices\springboot-logging)
+2021-03-04 16:06:14,707 DEBUG com.cts.SpringbootLoggingApplication [restartedMain] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-04 16:06:14,708 INFO com.cts.SpringbootLoggingApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-04 16:06:29,699 INFO com.cts.SpringbootLoggingApplication [restartedMain] Started SpringbootLoggingApplication in 17.553 seconds (JVM running for 24.157)
+2021-03-04 16:09:31,761 DEBUG com.cts.SpringbootLoggingApplication [http-nio-9090-exec-3] Request Neha
+2021-03-04 16:09:53,918 DEBUG com.cts.SpringbootLoggingApplication [http-nio-9090-exec-3] Response <h1>Hi Neha, Welcome to SLF4J</h1>
+2021-03-04 16:17:34,169 INFO com.cts.SpringbootLoggingApplication [restartedMain] Starting SpringbootLoggingApplication using Java 15 on DESKTOP-SN0AD3U with PID 21660 (E:\Sessions\microservices\springboot-logging\target\classes started by razaa in E:\Sessions\microservices\springboot-logging)
+2021-03-04 16:17:34,169 DEBUG com.cts.SpringbootLoggingApplication [restartedMain] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-04 16:17:34,170 INFO com.cts.SpringbootLoggingApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-04 16:17:37,419 INFO com.cts.SpringbootLoggingApplication [restartedMain] Started SpringbootLoggingApplication in 3.468 seconds (JVM running for 691.876)
+2021-03-04 16:18:34,975 INFO com.cts.SpringbootLoggingApplication [restartedMain] Starting SpringbootLoggingApplication using Java 15 on DESKTOP-SN0AD3U with PID 10136 (E:\Sessions\microservices\springboot-logging\target\classes started by razaa in E:\Sessions\microservices\springboot-logging)
+2021-03-04 16:18:34,998 DEBUG com.cts.SpringbootLoggingApplication [restartedMain] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-04 16:18:35,000 INFO com.cts.SpringbootLoggingApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-04 16:18:48,480 INFO com.cts.SpringbootLoggingApplication [restartedMain] Started SpringbootLoggingApplication in 16.358 seconds (JVM running for 19.913)
+2021-03-04 16:19:44,040 INFO com.cts.SpringbootLoggingApplication [restartedMain] Starting SpringbootLoggingApplication using Java 15 on DESKTOP-SN0AD3U with PID 20244 (E:\Sessions\microservices\springboot-logging\target\classes started by razaa in E:\Sessions\microservices\springboot-logging)
+2021-03-04 16:19:44,046 DEBUG com.cts.SpringbootLoggingApplication [restartedMain] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-04 16:19:44,047 INFO com.cts.SpringbootLoggingApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-04 16:20:23,915 INFO com.cts.SpringbootLoggingApplication [restartedMain] Starting SpringbootLoggingApplication using Java 15 on DESKTOP-SN0AD3U with PID 6508 (E:\Sessions\microservices\springboot-logging\target\classes started by razaa in E:\Sessions\microservices\springboot-logging)
+2021-03-04 16:20:23,921 DEBUG com.cts.SpringbootLoggingApplication [restartedMain] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-04 16:20:23,922 INFO com.cts.SpringbootLoggingApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-04 16:20:31,856 INFO com.cts.SpringbootLoggingApplication [restartedMain] Started SpringbootLoggingApplication in 8.964 seconds (JVM running for 11.506)
+2021-03-04 16:21:51,263 DEBUG com.cts.SpringbootLoggingApplication [http-nio-9090-exec-1] Request Saif
+2021-03-04 16:21:51,269 DEBUG com.cts.SpringbootLoggingApplication [http-nio-9090-exec-1] Response <h1>Hi Saif, Welcome to SLF4J</h1>
+2021-03-04 16:22:26,622 INFO com.cts.SpringbootLoggingApplication [restartedMain] Starting SpringbootLoggingApplication using Java 15 on DESKTOP-SN0AD3U with PID 6508 (E:\Sessions\microservices\springboot-logging\target\classes started by razaa in E:\Sessions\microservices\springboot-logging)
+2021-03-04 16:22:26,627 DEBUG com.cts.SpringbootLoggingApplication [restartedMain] Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-04 16:22:26,629 INFO com.cts.SpringbootLoggingApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-03-04 16:22:30,969 INFO com.cts.SpringbootLoggingApplication [restartedMain] Started SpringbootLoggingApplication in 4.601 seconds (JVM running for 130.62)
